@@ -7,4 +7,4 @@ def my_collect(languages)
     i += 1
   end
   collection
-end 
+end
